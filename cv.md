@@ -7,7 +7,7 @@
 * GitHub: Xpom45
 ***
 ## About myself
-I'm 28 years old, I work as a PC Technician. I want to change profession, so I'm learning programming.
+I'm 28 years old, I work as a PC Technician. I want to change profession, so I'm learning programming in RS School.
 ***
 ## Languages
 * **Russian** - native speaker
